@@ -1,0 +1,2 @@
+/Users/aniketparihar/Documents/GithubDesktop/ghar_ka_sathi_app/android/app/.cxx/Debug/1w64411p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/aniketparihar/Documents/GithubDesktop/ghar_ka_sathi_app/android/app/.cxx/Debug/1w64411p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
